@@ -17,5 +17,5 @@ hugo server
 5. commit and push your changes
 - `git add .`
 - `git commit -m "{your message}"`
-- git push
+- `git push`
 
