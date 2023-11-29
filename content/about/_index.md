@@ -2,20 +2,21 @@
 date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
+As a dynamic and skilled learning and instructional design professional, my focus is on proactively identifying and implementing solutions that are approachable and optimize educational outcomes. My expertise lies in creating and managing successful courses across various modalities, including traditional classroom, online, and blended learning environments.
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+With a keen eye for detail and a creative flair, I deliver top-quality course content that aligns with the latest best practices in the industry. 
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+As a skilled communicator, I excel at building genuine relationships and fostering collaboration across teams to achieve shared goals.
 
 ![This is me][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+
 
 #### Education
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+* Seneca College: Adult Education & Staff Training Certificate
+* University of Guelph: Sociology
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
 
-[1]: /img/stock.jpeg
+[1]: /img/KateWamsteeker.jpg
+

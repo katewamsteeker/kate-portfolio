@@ -1,31 +1,48 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
+title = "Sales Course"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/foso.jpg"
 showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+I brought a classroom sales course to life online, leveraging my expertise in adult learning principles to equip learners with the skills and techniques to improve their sales performance from prospecting to closing.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![This is me][1]
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+I worked with subject matter experts and videographers to develop the content and ensure quality and accuracy. Following the collection of materials, I assumed responsibility for designing the course, constructing the course materials, and creating the course in the learning management system, D2L.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+I storyboarded the 8-week in-depth sales course, breaking down each week into multiple topics. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+ Each week of the course learners are taken through cycles that begin with introductions, objectives, and an activity to activate their prior knowledge (adult learners have lots to bring to the table!). The cycles continue with readings, videos, and activities/quizzes/templates to put their learning into action. The cycles close with summaries and knowledge checks. These cycle continues throughout the course for continuity. 
 
-## Header Level 2
+##### Technology
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+* Adobe Photoshop
+* Adobe Editor
+* PowerPoint
+* Wondershare Filmora
+* Zoom
+* D2L (LMS)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+##### Key Pieces I Developed
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+* All fillable PDF activities
+* Discussion questions and course prompts
+* Knowledge check quiz questions
+* Final exam questions
+* Assignments
+* Syllabus
+* How-to course video
+* Webinar PPTs and speaker notes
+* Announcements 
+ 
+ ##### The Response
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+>  “The 8 week course has been so eye-opening and beneficial to my knowledge and understanding of what it means to truly put your client/customer/prospect’s needs/goals first. Each successive week build upon previous content, with the addition of new tools and assignments to solidify concepts. I would highly recommend this course to my colleagues or anyone interested in refining and building upon their sales skills.” - Devindra, Inside Sales Rep
+
+ ##### NPS Score: 46
+
+ [1]: /img/foso.jpg

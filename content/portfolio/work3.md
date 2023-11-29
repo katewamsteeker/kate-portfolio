@@ -1,31 +1,32 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
-showonlyimage = false
+image = "img/portfolio/softskills.png"
+
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "On-demand learning"
 draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+I developed bite-sized modules to quickly update learners' skills and provide them with practical tips and templates they can apply on the job immediately.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+![This is me][1]
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+I used Articulate Rise to build multiple on-demand online courses ranging in length from 1.5 - 3 hours designed for sales professionals who want to upgrade their skills, but with a course that fits into their busy schedules.  
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+The self-guided courses consist of a variety of readings, multimedia, and activities, including short knowledge check quizzes, downloadable PDF templates and thought provoking questions.  
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+##### The Response
 
-## Header Level 2
+> "We have been in business for over 40yrs, with an extensive dealer network but never was able to implement a structured or focused account management plan. The tools provided in this course are simple yet allow us to propely plan based on account potential and track account details." Jean, Sales Director
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+> "Awesome course, even for the most seasoned sales professional will see true value in this course." Carolyn, Key Account Manager
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+##### Technology
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+* Articulate Rise
+* Adobe Photoshop
+* Adobe Editor
+* D2L
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/softskills.png

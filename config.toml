@@ -1,20 +1,21 @@
 baseurl = "https://example.org/"
-title = "Creative portfolio"
+title = "My Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
+ 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2023"
+  sideBarName = "Kate Wamsteeker"
   sidebarAbout = [
-    "I am a Learning Development professional with more than 10 years of experience.",
+    "I am an experienced learning and development professional who is enthusiastic about creating impactful learning experiences and helping individuals and organizations achieve their goals.",
     "Originally from Toronto, currently based Everywhere."
   ]
   # Contact page
@@ -55,14 +56,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  linkedin      = "https://www.linkedin.com/in/kate-wamsteeker-3702b02a"
+  email         = "katewamsteeker@gmail.com"
+
+  
