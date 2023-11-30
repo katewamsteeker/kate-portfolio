@@ -1,43 +1,46 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Sales Course"
+title = "Digital Transformation of Classroom Sales Course"
 draft = false
 image = "img/portfolio/foso.jpg"
 showonlyimage = false
 weight = 1
 +++
 
-I brought a classroom sales course to life online, leveraging my expertise in adult learning principles to equip learners with the skills and techniques to improve their sales performance from prospecting to closing.
+I brought a traditional classroom sales course into the digital realm, leveraging my expertise in adult learning principles. My goal was to equip learners with comprehensive skills and techniques, elevating their sales performance from prospecting to closing. 
 <!--more-->
 
-![This is me][1]
+![Course Video in the LMS][1]
 
-I worked with subject matter experts and videographers to develop the content and ensure quality and accuracy. Following the collection of materials, I assumed responsibility for designing the course, constructing the course materials, and creating the course in the learning management system, D2L.
+Collaborating closely with subject matter experts and videographers, I ensured the development of high-quality and accurate content. The entire process, from course design to material creation and implementation on the Learning Management System (Brightspace by D2L), reflected a commitment to the sales community.
 
-I storyboarded the 8-week in-depth sales course, breaking down each week into multiple topics. 
+##### Innovative 8-Week Sales Course and Weekly Cycles
 
- Each week of the course learners are taken through cycles that begin with introductions, objectives, and an activity to activate their prior knowledge (adult learners have lots to bring to the table!). The cycles continue with readings, videos, and activities/quizzes/templates to put their learning into action. The cycles close with summaries and knowledge checks. These cycle continues throughout the course for continuity. 
+I storyboarded an 8-week sales course, breaking down each week into multiple topics to ensure a seamless learning journey.
 
-##### Technology
+ Each week, learners embark on cycles designed for optimal engagement and knowledge retention. Commencing with introductions, objectives, and activating prior knowledge, the cycles progress through curated readings, videos, and practical activities. Continuous reinforcement is achieved through activities, quizzes, and templates, culminating in summaries and knowledge checks for sustained continuity.
 
-* Adobe Photoshop
-* Adobe Editor
-* PowerPoint
-* Wondershare Filmora
-* Zoom
-* D2L (LMS)
+##### Integration of Technology
 
-##### Key Pieces I Developed
+My proficiency extends across a suite of tools, each strategically employed to enhance the learning experience:
 
-* All fillable PDF activities
-* Discussion questions and course prompts
-* Knowledge check quiz questions
-* Final exam questions
-* Assignments
-* Syllabus
-* How-to course video
-* Webinar PPTs and speaker notes
-* Announcements 
+- **Adobe Photoshop:** Used for creative visual elements to enrich course content.
+- **Adobe Editor:** Ensured a polished and professional look for textual elements.
+- **PowerPoint:** Leveraged for dynamic and visually compelling presentations.
+- **Wondershare Filmora:** Applied for video editing to enhance engagement with multimedia content.
+- **Zoom:** Facilitated virtual engagement and collaboration.
+- **Brightspace by D2L (LMS):** Utilized for streamlined course delivery and management.
+
+##### Developed Components:
+
+- **Fillable PDF Activities:** Created interactive and user-friendly fillable PDF activities to enhance learner engagement.
+- **Discussion Questions and Course Prompts:** Crafted thought-provoking discussion questions and prompts to stimulate critical thinking.
+- **Knowledge Check Quiz Questions:** Formulated quizzes that assessed comprehension and reinforced key concepts.
+- **Final Exam Questions:** Designed comprehensive final exam questions to evaluate overall course understanding that directly aligned to a competency framework.
+- **Assignments and Syllabus:** Structured assignments and a syllabus for clear learning objectives and expectations.
+- **How-to Course Video:** Produced an instructional video to guide learners through the course navigation and features.
+- **Webinar PowerPoint Presentations and Speaker Notes:** Developed visually captivating presentations and accompanying speaker notes for engaging webinars.
+- **Announcements:** Crafted informative and engaging announcements to keep learners informed and motivated.
  
  ##### The Response
 
