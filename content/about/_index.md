@@ -18,5 +18,5 @@ As a skilled communicator, I excel at building genuine relationships and fosteri
 * University of Guelph: Sociology
 
 
-[1]: /img/KateWamsteeker.jpg
+[1]: /personal/img/KateWamsteeker.jpg
 
