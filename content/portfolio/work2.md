@@ -48,4 +48,4 @@ My proficiency extends across a suite of tools, each strategically employed to e
 
  ##### NPS Score: 46
 
- [1]: /img/foso.jpg
+ [1]: /personal/portfolio/img/foso.jpg

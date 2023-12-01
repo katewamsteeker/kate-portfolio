@@ -26,8 +26,8 @@ PowerPoint is integral to the creation of learning materials that not only to co
 
 ![Course PowerPoint Screenshot][5]
 
- [1]: /img/commonality.png
- [2]: /img/air2.png
- [3]: /img/poll.png
- [4]: /img/smart.png
- [5]: /img/stage1.png
+ [1]: /personal/portfolio/img/commonality.png
+ [2]: /personal/portfolio/img/air2.png
+ [3]: /personal/portfolio/img/poll.png
+ [4]: /personal/portfolio/img/smart.png
+ [5]: /personal/portfolio/img/stage1.png
