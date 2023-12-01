@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io/personal"
+baseurl = "https://katewamsteeker.github.io/personal"
 title = "My Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
