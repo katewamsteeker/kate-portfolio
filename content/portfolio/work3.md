@@ -35,4 +35,4 @@ The development process seamlessly integrated technologies:
 - **Adobe Editor:** Ensured a polished and professional presentation for textual elements.
 - **Brightspace by D2L (Learning Management System):** The courses were seamlessly implemented within the D2L platform for efficient course management.
 
-[1]: /personal/portfolio/img/softskills.png
+[1]: /personal/img/softskills.png

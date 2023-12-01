@@ -31,4 +31,4 @@ My proficiency extends across key technologies integral to delivering seamless a
 
 ##### Satisfaction Score Average: 95%
 
- [1]: /personal/portfolio/img/virtualtraining.jpg
+ [1]: /personal/img/virtualtraining.jpg
